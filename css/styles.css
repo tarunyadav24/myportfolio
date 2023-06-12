@@ -285,7 +285,10 @@ section {
   font-size: 26px;
   color: #173b6c;
 }
-
+.about .content .col-lg-6{
+     column-gap: 20px;
+     
+}
 
 .about .content ul {
   list-style: none;
