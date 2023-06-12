@@ -472,6 +472,26 @@ section {
   border: 2px solid #1f5297;
 }
 
+/* ----------------------------------------------------- */
+/* resume download button */
+
+.resume .resume-download button {
+  padding: 7px 20px;
+  
+  background-color: #25a3de;
+  color: #ffffff;
+  border: none;
+  border-radius: 25px;
+  font-size: 15px;
+  cursor: pointer;
+  margin-top: 25px;
+  transition: background-color 0.3s ease;
+}
+
+.resume .resume-download button:hover {
+  background-color: #2eafec;
+}
+
 /* ------------------------------------------------------------------ */
 /* Services sections start */
 
@@ -745,6 +765,9 @@ section {
   visibility: visible;
   opacity: 1;
 }
+
+
+
 
 /*--------------------------------------------------------------
 # Footer
